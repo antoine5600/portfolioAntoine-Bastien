@@ -1,0 +1,45 @@
+.create-post .form-horizontal .form-group {
+    margin-right: 0px;
+    margin-left: 100px;
+}
+.edit-post .form-horizontal .form-group {
+    margin-right: 0px;
+    margin-left: 100px;
+}
+.img-responsive{
+    max-width: 600px;
+    max-height: 300px;
+}
+.post-title{
+	margin-bottom: 0px
+}
+.post-date{
+	font-size: 12px;
+}
+.article-recent{
+	border: rgb(238, 238, 238) 1px solid;
+}
+.title-recent{
+	text-decoration: none;
+	margin-bottom: 4px;
+	color: black;
+}
+.hide{
+	display: none;
+}
+.featurette-image{
+	margin-right: 30px;
+}
+.lead{
+	margin-left: 320px;
+	font-size: 19px;
+    border: 1px solid #CCCCCC;
+    max-width: 500px;
+}
+.date-recent{
+    font-size: 11px;
+}
+.recent{
+    font-size: 20px;
+    margin-bottom: -10px;
+}
