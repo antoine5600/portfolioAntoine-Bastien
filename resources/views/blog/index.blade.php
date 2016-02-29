@@ -13,7 +13,7 @@
     <!-- Page Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Veille technologiques
+            <h1 class="page-header">Veille technologique
                 <small>Framework PHP</small>
             </h1>
             <a href="{{ route( 'blog.create') }}" class="btn btn-primary hide"><i class="fa fa-plus"></i> Article</a>
